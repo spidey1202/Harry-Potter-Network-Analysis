@@ -1,4 +1,4 @@
-# Harry Potter Character Network Analysis
+[# Harry Potter Character Network Analysis
 
 This repository contains Python code for analyzing character networks in the 'Harry Potter' series. It includes two approaches: one utilizing Spark for distributed processing, and another using an iterative approach.
 
@@ -36,7 +36,7 @@ The sentiment graph analysis provides valuable insights into the relationships a
 
 - **Plot Validation:** The sentiment graph aligns with key plot elements and memorable events from the 'Harry Potter' series. It accurately depicts the nature of character interactions, reinforcing the authenticity and reliability of the graph's representation. As a fan of the series, you can validate the graph's correctness and enjoy a deeper understanding of the intricate character dynamics.
 
-The sentiment graph analysis provides a visually appealing and intuitive way to explore the relationships and dynamics between characters in the 'Harry Potter' series. By examining the [**graphs**](https://github.com/spidey1202/Harry-Potter-Network-Analysis/tree/main/graphs) with node sizes, edge colors, and the changing edges throughout the story, you can gain valuable insights into the interplay of characters, their alliances, conflicts, and the overall narrative structure.
+- *The sentiment graph analysis provides a visually appealing and intuitive way to explore the relationships and dynamics between characters in the 'Harry Potter' series. By examining the [**graphs**](https://github.com/spidey1202/Harry-Potter-Network-Analysis/tree/main/graphs) with node sizes, edge colors, and the changing edges throughout the story, you can gain valuable insights into the interplay of characters, their alliances, conflicts, and the overall narrative structure.*
 
 
 
