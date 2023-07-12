@@ -1,4 +1,4 @@
-[# Harry Potter Character Network Analysis
+## Harry Potter Character Network Analysis
 
 This repository contains Python code for analyzing character networks in the 'Harry Potter' series. It includes two approaches: one utilizing Spark for distributed processing, and another using an iterative approach.
 
