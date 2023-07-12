@@ -5,12 +5,12 @@ This repository contains Python code for analyzing character networks in the 'Ha
 
 
 ## Project motivation
-- **Character Relationships:** Analyzing character networks provides insights into the relationships and dynamics among the characters in the beloved 'Harry Potter' series.
+- **Character Relationships:** Analyzing character networks provides insights into the relationships among the characters in the 'Harry Potter' series.
 - **Understanding the Story:** Character interactions are a crucial element of the narrative, and network analysis helps uncover their significance.
-- **Visualization:** Network graphs visually depict the connections and strength of relationships, offering an intuitive representation of the character network.
+- **Visualization:** Network graphs visually depict the connections and strength of relationships, offering an interesting representation of the character network.
 - **Co-occurrence and Sentiment Analysis:** Examining co-occurrence patterns and sentiment between characters reveals their associations and emotional connections.
 - **Spark and Iterative Approaches:** Two different approaches are provided to accommodate varying dataset sizes and processing needs.
-- **Engaging Analysis for Fans:** Fans of 'Harry Potter' can explore and appreciate the intricate web of relationships among their favorite characters.
+- **Engaging Analysis for Fans:** Fans of 'Harry Potter' can explore and appreciate the web of relationships among their favorite characters.
 
 
 ## Usage
@@ -20,19 +20,6 @@ This repository contains Python code for analyzing character networks in the 'Ha
 3. Adjust the code parameters as needed (e.g., top number of names, frequency threshold).
 4. Run the code snippets (`characterNetwork-distributed.py` and `characterNetwork-iterative.py`) in a Python environment.
 5. Network graphs will be generated as PNG files in the repository directory.
-
-
-
-## Features
-
-- Distributed processing using Spark for large-scale character network analysis
-- Iterative approach for smaller datasets or without Spark
-- NER (name entity recognition) for extracting character names
-- Co-occurrence and sentiment analysis
-- Network graph visualization
-- Graph plotting for the entire series and individual seasons
-
-
 
 
 ## Sentiment Graph Analysis
